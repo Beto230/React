@@ -1,0 +1,33 @@
+/* styles.css */
+.tweet {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .tweet-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .username {
+    font-weight: bold;
+  }
+  
+  .date {
+    color: #888;
+  }
+  
+  .tweet-content {
+    margin-top: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .message {
+    margin-top: 5px;
+  }
+  
